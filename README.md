@@ -10,5 +10,5 @@ Archive some posts from NGA
 
 # Disclamer
 
-本人只负责搬运NGA的帖子以免被锁阴之后无法查看。
+本人只负责搬运NGA的帖子以免被锁隐之后无法查看。
 
