@@ -84,4 +84,5 @@
 > 空壳技能不再对结晶盾生效
 > 
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_v4.jpg)
+>
 >https://bbs.nga.cn/read.php?tid=30366197
