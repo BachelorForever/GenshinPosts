@@ -21,7 +21,7 @@
 > 生命值：2.5*野伏众
 > 12-3血量: 693250
 > 额外抗性：物30% 火30%
->
+> 注：盾量测试为24元素火盾
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_pyro_v1_1.jpg)
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_pyro_v1_2.jpg)
 
@@ -29,6 +29,7 @@
 > 生命值：3*野伏众
 > 12-3血量: 831900
 > 额外抗性：物30% 水30%
+> 注：持续回血量为40%最大生命
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_hydro_v1_1.jpg)
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_hydro_v1_2.jpg)
 
@@ -38,6 +39,7 @@
 > 额外抗性：物30% 冰30%
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_cyro_v1_1.jpg)
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_cyro_v1_2.jpg)
+>
 >https://bbs.nga.cn/read.php?tid=30160862
 
 
@@ -65,11 +67,12 @@
 
 ## 2022-01-18 v3.0
 
-> 描述增加以生命值为代价
+> 描述增加以生命值为代价(15%当前生命)
 > 
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_pyro_v3.jpg)
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_hydro_v3.jpg)
 >![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/husk_cyro_v3.jpg)
+>
 > https://bbs.nga.cn/read.php?tid=30320768
 
 > 伤害倍率削弱
