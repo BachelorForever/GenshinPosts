@@ -46,6 +46,10 @@
 > **重量很轻，免疫风力**
 > 
 > https://bbs.nga.cn/read.php?tid=30237752
+> 
+> 幽夜大部分反应
+>
+>![](https://raw.githubusercontent.com/BachelorForever/GenshinPosts/main/img/husk_history/comment.png)
 
 ## 2022-01-11 测试服问卷
 
